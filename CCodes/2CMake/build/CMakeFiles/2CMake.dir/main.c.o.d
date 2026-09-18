@@ -1,6 +1,6 @@
 CMakeFiles/2CMake.dir/main.c.o: \
- /home/orangepi/Scripts/CCodes/2CMake/main.c /usr/include/stdc-predef.h \
- /usr/include/stdio.h \
+ /home/orangepi/Scripts/Embedded/CCodes/2CMake/main.c \
+ /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/aarch64-linux-gnu/bits/wordsize.h \

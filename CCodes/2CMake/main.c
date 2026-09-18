@@ -62,21 +62,14 @@ int main(void){
     
     while(1){
     gpiod_line_request_set_value(request,gpio,GPIOD_LINE_VALUE_ACTIVE);
-
     printf("LED encendido\n");
-
     sleep(1);
     //apagar led
     gpiod_line_request_set_value(request,gpio,GPIOD_LINE_VALUE_INACTIVE);
-
     printf("LED apagado\n");
     sleep(1);
     }
     //Enecender led
-
-    gpiod_line_config_free(line_config);
-    gpiod_line_settings_free(settings);
-    gpiod_chip_close(chip);
     
     return 0;
 

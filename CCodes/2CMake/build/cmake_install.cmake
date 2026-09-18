@@ -1,4 +1,4 @@
-# Install script for directory: /home/orangepi/Scripts/CCodes/2CMake
+# Install script for directory: /home/orangepi/Scripts/Embedded/CCodes/2CMake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/orangepi/Scripts/CCodes/2CMake/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/orangepi/Scripts/Embedded/CCodes/2CMake/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

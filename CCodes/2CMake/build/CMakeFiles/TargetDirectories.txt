@@ -1,3 +1,3 @@
-/home/orangepi/Scripts/CCodes/2CMake/build/CMakeFiles/2CMake.dir
-/home/orangepi/Scripts/CCodes/2CMake/build/CMakeFiles/edit_cache.dir
-/home/orangepi/Scripts/CCodes/2CMake/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/Scripts/Embedded/CCodes/2CMake/build/CMakeFiles/2CMake.dir
+/home/orangepi/Scripts/Embedded/CCodes/2CMake/build/CMakeFiles/edit_cache.dir
+/home/orangepi/Scripts/Embedded/CCodes/2CMake/build/CMakeFiles/rebuild_cache.dir
