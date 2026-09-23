@@ -1,4 +1,4 @@
-#ifdef GPIO_H
+#ifndef GPIO_H
 #define GPIO_H
 #define GPIO_INPUT 0
 #define GPIO_OUTPUT 1
