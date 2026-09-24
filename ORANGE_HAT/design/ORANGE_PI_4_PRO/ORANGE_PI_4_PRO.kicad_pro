@@ -676,13 +676,13 @@
         "uuid": "88cd3883-579c-4fcd-9713-c2cfdde2bd59"
       }
     ],
-    "used_designators": "",
+    "used_designators": "P3,#PWR11-16",
     "variants": []
   },
   "sheets": [
     [
       "88cd3883-579c-4fcd-9713-c2cfdde2bd59",
-      "raspberrypi-gpio-40pin"
+      "ORANGE_PI_4_PRO"
     ]
   ],
   "text_variables": {},
